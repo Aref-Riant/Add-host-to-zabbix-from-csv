@@ -1,0 +1,3 @@
+#IP,HostName,HostGroups
+172.16.6.38,Sample-HOST1,samples:ha
+172.16.6.39,Sample-HOST2,samples:database:mongo
