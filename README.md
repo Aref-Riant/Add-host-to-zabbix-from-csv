@@ -12,4 +12,4 @@ This is a simple python script which reads a csv files and adds hosts to zabbix 
 
 3. Run the script:
    the only dependancy is 'pyzabbix' package which you could install with coammnd: 'pip install pyzabbix'
-   the you could simple run the script like this: "python pyzabbix_create_host.py"
+   then you could simply run the script like this: "python pyzabbix_create_host.py"
